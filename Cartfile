@@ -1,0 +1,8 @@
+# VPN Utilities framework
+git "https://gert-geudens:8dc1b2493995e02f71a07e7f7eb9df625c73c95f@github.ibm.com/CIOpenmix/VPN-Utilities.git" ~> 3.1
+# Watson Developer Cloud Swift SDK
+github "watson-developer-cloud/swift-sdk"
+# IBMW3OIDC Framework
+git "https://irene-marquet:1ad92741c3b6a31aad03c802c1c52c4fdf7e0fe1@github.ibm.com/ciomobiledev/w3idoidcshared.git" "master"
+# NPSKit (NewRelic feedback framework)
+git "https://andrei-nevar:20afe87703a5b4657789b312bc5ee0497d94d922@github.ibm.com/CIOpenmix/NPSKit.git" "master"
